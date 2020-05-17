@@ -64,9 +64,9 @@ if __name__ == '__main__':
     print("main")
     print("main")
 
-    host = "176.113.11.32"
-    port = 8888
-    name = "MyServer"
+    host = "172.105.88.1"
+    port = 8080
+    name = "Chatik"
 
     serv = MyHTTPServer(host,port,name)
     try:
