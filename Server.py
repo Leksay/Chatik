@@ -64,7 +64,7 @@ if __name__ == '__main__':
     print("main")
     print("main")
 
-    host = "172.105.88.1"
+    host = "172.105.88.159"
     port = 8080
     name = "Chatik"
 
